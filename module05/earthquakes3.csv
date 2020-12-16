@@ -1,0 +1,3 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-10-10T16:18:27.120Z,-10.9133,162.3903,35,5.1,mb,,63,2.816,0.83,us,us1000ha2w,2018-10-10T16:37:38.040Z,"72km SE of Kirakira, Solomon Islands",earthquake,9.2,2,0.048,139,reviewed,us,us
+2018-10-10T11:11:03.170Z,-22.0519,-179.1596,579.92,4.6,mb,,47,5.023,0.91,us,us1000h9x5,2018-10-10T11:32:05.040Z,"162km SSW of Ndoi Island, Fiji",earthquake,10.8,8.1,0.045,146,reviewed,us,us
